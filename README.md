@@ -5,4 +5,4 @@
 React Version
 
 
-![GitHub  ChatApplication](./imges/Signup)
+![GitHub  ChatApplication](./imges/Signup.GIF)
