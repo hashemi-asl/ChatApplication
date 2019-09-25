@@ -5,6 +5,6 @@
 React Version
 
 
-![GitHub  ChatApplication](./imges/Signup.GIF)
+![GitHub  ChatApplication](./images/Signup.GIF)
 
-![GitHub Clock](./images/Clock.GIF)
+<!-- ![GitHub chat-app](./images/Clock.GIF) -->
